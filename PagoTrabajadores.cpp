@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    int hrsLab, valHor, hrsExt, ValPag, pagoDoble, pagoTriple, hrsLabExtra, valTot, hrs, pagoDoblex; 
-    
+    int hrsLab, valHor, hrsExt, ValPag, pagoDoble, pagoTriple, hrsLabExtra, valTot, hrs, pagoDoblex;     
     cin >> hrsLab >> valHor;
     
     hrsExt = hrsLab - 40;
